@@ -1,0 +1,3 @@
+etc/ssl/certs/dhparam.pem
+etc/ssl/certs/nginx-signed.crt
+etc/ssl/private/nginx-signed.key
