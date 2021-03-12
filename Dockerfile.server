@@ -1,6 +1,7 @@
 FROM nginx:1.13-alpine
 
 COPY ./server/etc/nginx/conf.d/ /etc/nginx/conf.d/
+COPY ./server/etc/nginx/html/ /etc/nginx/html/
 
 EXPOSE 80
 
