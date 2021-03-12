@@ -4,4 +4,3 @@ dev/etc/ssl/private/nginx-signed.key
 
 server/etc/nginx/html/google25839a80ff82adcd.html
 server/etc/nginx/html/naver418deaa705f8685e1c991532ceb92978.html
-server/etc/nginx/conf.d/default.conf
